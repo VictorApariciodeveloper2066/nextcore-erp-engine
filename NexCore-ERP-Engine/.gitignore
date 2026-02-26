@@ -1,0 +1,27 @@
+# Python - Compilados y Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos Virtuales
+venv/
+env/
+.env
+.venv/
+
+# Django - Archivos locales
+db.sqlite3
+/staticfiles/
+/media/
+
+# Docker
+.docker/
+
+# IDEs (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
