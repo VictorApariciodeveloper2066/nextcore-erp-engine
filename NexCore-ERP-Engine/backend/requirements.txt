@@ -1,0 +1,4 @@
+django>=4.2,<5.0
+psycopg2-binary>=2.9.6  # Driver para conectar con PostgreSQL
+python-dotenv>=1.0.0    # Para leer las variables de entorno (.env)
+django-cors-headers     # Necesario para que el Frontend se comunique con el Backend
